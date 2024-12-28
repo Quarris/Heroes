@@ -1,0 +1,14 @@
+<Faction name="castle">
+    <City model="Castle_model.png" view="Castle_view.png">
+        <Buildings>
+            <Dwellings>
+                <Dwelling name="pikemen">
+
+                </Dwelling>
+            </Dwellings>
+        </Buildings>
+    </City>
+    <Heroes>
+
+    </Heroes>
+</Faction>

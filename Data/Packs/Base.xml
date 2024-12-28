@@ -1,0 +1,32 @@
+<Pack id="base">
+    <Resources>
+        <Resource name="wood" group="wood">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+        <Resource name="ore" group="ore">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+        <Resource name="mercury" group="mercury">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+        <Resource name="crystal" group="crystal">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+        <Resource name="gem" group="gem">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+        <Resource name="sulfur" group="sulfur">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+        <Resource name="gold" group="gold">
+            <Icon></Icon>
+            <Texture></Texture>
+        </Resource>
+    </Resources>
+</Pack>
